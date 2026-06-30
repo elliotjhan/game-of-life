@@ -1,0 +1,15 @@
+.liveCell {
+  background-color: rgb(0, 50, 103);
+}
+
+.deadCell {
+  background-color: white;
+}
+
+.liveCell,
+.deadCell {
+  width: 15px;
+  height: 15px;
+  margin: 1px;
+  border-radius: 10px;
+}
